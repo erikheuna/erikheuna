@@ -10,8 +10,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20the%20series-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Series repo](https://img.shields.io/badge/GitHub-Zero%20to%20Expert%20labs-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20the%20series-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/charles-eric-heuna-8b4b74182/)
+[![Series repo](https://img.shields.io/badge/GitHub-Zero%20to%20Expert%20labs-181717?style=for-the-badge&logo=github)](https://github.com/erikheuna/linux-mastery)
 
 </div>
 
@@ -55,7 +55,7 @@ Three posts a week, from first ping to a multi-vendor architecture (Cisco, Mikro
 | Area | Topics | Status |
 |---|---|:---:|
 | **Networking fundamentals** | LAN design, IPv4 addressing and subnetting, DHCP, ACLs, VLANs, static routing, NAT | 🟢 |
-| **Linux administration** | Installation, users and permissions, package management, SSH, services, Bash scripting | 🟢 |
+| **Linux administration** | Installation, users and permissions, package management, SSH, services, Bash scripting | ⬜ |
 | **Routing and switching** | Dynamic routing (OSPF), STP, EtherChannel, VPN, BGP, high availability | ⬜ |
 | **MikroTik (RouterOS)** | Firewall, routing, queues, VPN, scripting | ⬜ |
 | **Fortinet (FortiGate)** | Security policies, UTM, VPN, SD-WAN, high availability | ⬜ |
@@ -81,14 +81,14 @@ Networking and Linux are the foundation. Once they are solid, I expand into the 
 | # | Lab | Topics | Folder |
 |:---:|---|---|:---:|
 | 03 | Access Control Lists | Standard and extended ACLs | [📂](https://github.com/erikheuna/network-engineering/tree/main/03-access-list) |
-| 02 | DHCP | Address pools, exclusions | [📂](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert/tree/main/02-dhcp) |
-| 01 | First LAN | Two subnets, router, inter-network routing | [📂](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert/tree/main/01-reseau-lan-simple) |
+| 02 | DHCP | Address pools, exclusions | [📂](https://github.com/erikheuna/network-engineering/tree/main/02-dhcp) |
+| 01 | First LAN | Two subnets, router, inter-network routing | [📂](https://github.com/erikheuna/network-engineering/tree/main/01-simple-lan) |
 
 ---
 
 ## 📫 Let's connect
 
-I am always happy to exchange with other learners and engineers: feedback, corrections and lab ideas are welcome. Open an issue on the series repository or reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/).
+I am always happy to exchange with other learners and engineers: feedback, corrections and lab ideas are welcome. Open an issue on the series repository or reach me on [LinkedIn](https://www.linkedin.com/in/charles-eric-heuna-8b4b74182/).
 
 <div align="center">
 

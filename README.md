@@ -11,7 +11,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20the%20series-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/charles-eric-heuna-8b4b74182/)
-[![Series repo](https://img.shields.io/badge/GitHub-Zero%20to%20Expert%20labs-181717?style=for-the-badge&logo=github)](https://github.com/erikheuna/linux-mastery)
+[![Series repo](https://img.shields.io/badge/GitHub-Zero%20to%20Expert%20labs-181717?style=for-the-badge&logo=github)](#)
 
 </div>
 

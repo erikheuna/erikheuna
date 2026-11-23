@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Heuna Charles-Eric 👋
 
 ### Network & Linux learner, documenting the road from zero to expert
 
@@ -88,7 +88,7 @@ Networking and Linux are the foundation. Once they are solid, I expand into the 
 
 ## 📫 Let's connect
 
-I am always happy to exchange with other learners and engineers: feedback, corrections and lab ideas are welcome. Open an issue on the series repository or reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/).
+I am always happy to exchange with other learners and engineers: feedback, corrections and lab ideas are welcome. Open an issue on the series repository or reach me on [LinkedIn](https://www.linkedin.com/in/charles-eric-heuna-8b4b74182/).
 
 <div align="center">
 

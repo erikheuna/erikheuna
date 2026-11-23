@@ -80,9 +80,9 @@ Networking and Linux are the foundation. Once they are solid, I expand into the 
 
 | # | Lab | Topics | Folder |
 |:---:|---|---|:---:|
-| 03 | Access Control Lists | Standard and extended ACLs | [📂](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert/tree/main/03-access-list) |
-| 02 | DHCP | Address pools, exclusions | [📂](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert/tree/main/02-dhcp) |
-| 01 | First LAN | Two subnets, router, inter-network routing | [📂](https://github.com/YOUR-USERNAME/reseaux-linux-zero-to-expert/tree/main/01-reseau-lan-simple) |
+| 03 | Access Control Lists | Standard and extended ACLs | [📂](https://github.com/erikheuna/network-engineering/tree/main/03-access-list) |
+| 02 | DHCP | Address pools, exclusions | [📂](https://github.com/erikheuna/network-engineering/tree/main/02-dhcp) |
+| 01 | First LAN | Two subnets, router, inter-network routing | [📂](https://github.com/erikheuna/network-engineering/tree/main/01-simple-lan) |
 
 ---
 
